@@ -1,7 +1,7 @@
 # ChipotleSim
 
 This Simio project was developed for a course in UCF.
-The project was developed and contructed by me while my peers wrote the reports and assisted with the time study for this project.
+The project was developed and contructed by me, Sebastian And, while my peers wrote the reports and assisted with the time study for this project.
 The data collection and analysis was done by Aleena Voorhees, Alexandra Dumas, Matthew Silver, Randa Yasin and Tayah Allen.
 
 The simio project consisted of studying and improving a real world queue system. Chipotle was chosen due to its close proximity to campus and the location's notoriously long wait times.
